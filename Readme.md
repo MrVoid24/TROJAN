@@ -1,8 +1,8 @@
 1:- There are two python scripts:
 
-*Evil.py[enter your ip address and port number in evil code]
+*Evil.py  [enter your ip address and port number in evil code]
 
-*Listner.py
+*Listner.py  [enter the port number only]
 
 
 
