@@ -1,8 +1,10 @@
 1:- There are two python scripts:
 
-*Evil.py
+*Evil.py[enter your ip address and port number in evil code]
 
 *Listner.py
+
+
 
 2:-Now you have to make the Evil.py script in excutable format.
 
